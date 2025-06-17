@@ -1,4 +1,4 @@
-### Hey there! I'm João 👋
+## Hey there! I'm João 👋
 
 🎓📗 I'm currently halfway through my Information Systems degree. I'm passionate about technology and always open to new challenges. I enjoy listening to music, working out, and spending time with friends. I'm a curious and motivated person who’s always looking to learn and grow—whether through code or life experiences.
 
