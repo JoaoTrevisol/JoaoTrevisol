@@ -1,10 +1,6 @@
 ### Hey there! I'm João 👋
 
-🎓 Information Systems student  
-
-🛹 Tech enthusiast who also loves music, working out, and hanging out with friends 
-
-💻 Currently diving deep into Java, Spring Boot, and Supabase  
+🎓 I'm currently halfway through my Information Systems degree. I'm passionate about technology and always open to new challenges. I enjoy listening to music, working out, and spending time with friends. I'm a curious and motivated person who’s always looking to learn and grow—whether through code or life experiences.
 
 ## 🧰 Technologies I work with:
 
