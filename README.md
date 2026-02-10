@@ -2,8 +2,6 @@
 
 🎓📗 I'm currently halfway through my Information Systems degree. I'm passionate about technology and always open to new challenges. I enjoy listening to music, working out, and spending time with friends. I'm a curious and motivated person who’s always looking to learn and grow—whether through code or life experiences.
 
-## 🧑‍💻 Technologies I work with:
-
 ###  Languages and frameworks 
 <div align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java"/>
@@ -19,17 +17,10 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-
-
-
----
-
 ### 📫 Let's connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joãotrevisol/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github)](https://github.com/JoaoTrevisol)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
